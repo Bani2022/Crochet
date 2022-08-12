@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title> CrochetAndKits </title>
+    <style>
+      #Crochet {
+        background-color: purple;
+        color: red;
+        padding: 40px;
+        text-align: center;
+      }
+
+      .para {
+        text-align: center;
+      }
+
+      p {
+        text-align: center;
+      }
+
+
+      body {
+        background-color: lightblue;
+               font-family: "Brush Script MT", cursive;
+ 
+      }
+
+    </style>
+  </head>
+
+  <body>
+    <h1 id="Crochet">What is Crochet</h1>
+    <p>
+      Crochet is a technique using a crochet hook and yarn. Other materials can be crochet thread, fabric, wire, twine etc. </p>
+    <img src="https://images-na.ssl-images-amazon.com/images/I/81JutFcMZFS.__AC_SX300_SY300_QL70_FMwebp_.jpg">
+    <h2>
+      What can you crochet?
+    </h2>
+    <p>
+      You can almost crochet everything if you have enough yarn and the correct crotchet legnth needles. You can make things from stuffed animals and blankets to hats and sweaters.
+    </p>
+    <img src="https://m.media-amazon.com/images/I/51BjZF6lfUL._AC_.jpg">
+
+
+
+    <h1 id="Crochet">What is MiraCrafts</h1>
+
+
+    <p>
+      Mira Crafts is a kit that teaches you how to crotchet and knit. In a package you can get 20 assorted colors, sewing needles, darning needles, clips and crochet sticks.
+    </p>
+    <img src="https://images-na.ssl-images-amazon.com/images/I/91g7XNVhZ1L.__AC_SX300_SY300_QL70_FMwebp_.jpg">
+
+    <h2>
+      Where can I find MiraCrafts?
+    </h2>
+    <p>
+      MiraCrafts has a website for you to buy the kit, as well as downloading instructions, for free!The instructions can teach you how to make different items from beginer to advance. In the beginner sections you can make bracelets, and blankets. In the advanced section, you can make plushies and footwear! Below is a link to the website. <b>(To access the link you may have to right click it)</b>
+    </p>
+    <img src="https://web.archive.org/web/20211226194508im_/https://miragoods.com/wp-content/uploads/2017/02/E-book_Crochet-page-001-212x300.jpg">
+
+    <a href="https://miragoods.com/pages/free-e-books">MiraHandCrafts</a>
+
+
+
+
+
+  </body>
+ </html>
